@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.container .title{
+    margin-left: 300px;
+    margin-top: 50px;
+    
+
+}
+.container .title h2{
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    
+}
+.underline{
+    border-top: 3px solid blueviolet;
+    width: 50px;
+    margin-left: 60px;
+
+}
+article{
+    background-color: whitesmoke;
+    padding: 30px;
+    width:400px;
+    margin-left:100px ;
+    margin-top: 20px ;
+    border-radius: 5px;
+    box-shadow: 0px 1px 4px green;
+    
+}
+img{
+    border-radius: 300px;
+    box-shadow: 5px 5px 5px blue;
+}
+#person-img{
+    margin-left: 70px
+}
+#Author{
+    margin-top: 20px;
+    margin-left: 110px;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+.job{
+    margin-left: 120px ;
+    margin-top: 5px;
+    font-size: 15px;
+    color: blueviolet;
+}
+#info{
+    
+    margin-left: 40px;
+    margin-top: 20px;
+}
+button{
+    padding: 5px 15px 5px 15px;
+    margin-top: 20px;
+    margin-left: 70px;
+    border: 3px solid blueviolet;
+    border-radius: 10px;
+    color: blueviolet;
+}
+button:hover{
+    background-color: blueviolet;
+    color: white;
+}
+#random{
+    margin-left: 110px;
+    margin-top: 20px;
+}
